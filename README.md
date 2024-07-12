@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 <td>
 <b style="font-size:30px">I’m learning</b>
 </td>
-<tr>
 <td>
 <img src="https://skillicons.dev/icons?i=git,github,gitlab&perline=3" />
 </td>
