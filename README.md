@@ -26,20 +26,22 @@ Here are some ideas to get you started:
 <td>
 <b style="font-size:30px">I’m learning</b>
 </td>
-<td>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab&perline=3" />
-</td>
+</tr>
 <tr>
 <td>
-<img src="https://skillicons.dev/icons?i=py,r,matlab&perline=3" />
+$${\color{magenta}Heta} \space\space {\color{blue}Berkeley \space \color{blue}Madonna}$$
+<img src="https://skillicons.dev/icons?i=git,github,gitlab&perline=3" />
 </td>
 <td>
+<img src="https://skillicons.dev/icons?i=py,r,matlab&perline=3" />
+<img src="https://img.shields.io/badge/Julia-18BFFF?style=for-the-badge&logo=Julia&logoColor=white" /><br>
+</td>
 </tr>
 </table>
 
-## IDE/GUI’s I am working / worked with
+## IDE / GUI’s I am working / worked with
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=anaconda,pycharm,vscode&perline=3" />
-<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio IDE&logoColor=white" />
 </p>
