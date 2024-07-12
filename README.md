@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <td>
 <img src="https://skillicons.dev/icons?i=git,github,gitlab&perline=3" />
 </td>
+<tr>
 <td>
 <img src="https://skillicons.dev/icons?i=py,r,matlab&perline=3" />
 </td>
