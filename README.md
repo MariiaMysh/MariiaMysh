@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 <td>
 <b style="font-size:30px">I’m learning</b>
 </td>
-<td>
 </tr>
 <tr>
 <td>
