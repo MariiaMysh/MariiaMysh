@@ -41,4 +41,5 @@ $${\color{magenta}Heta} \space\space {\color{blue}Berkeley \space \color{blue}Ma
 
 ## IDE / GUI’s I am working / worked with
 
+<img src="https://skillicons.dev/icons?i=pycharm,vscode&perline=5" />
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio IDE&logoColor=white" />
