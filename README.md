@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 <td>
 <b style="font-size:30px">I’m learning</b>
 </td>
+<td>
+<b style="font-size:30px">Memory bank</b>
+</td>
 </tr>
 <tr>
 <td>
@@ -36,10 +39,13 @@ $${\color{magenta}Heta} \space\space {\color{blue}Berkeley \space \color{blue}Ma
 <img src="https://skillicons.dev/icons?i=py,r,matlab&perline=3" />
 <img src="https://img.shields.io/badge/Julia-18BFFF?style=for-the-badge&logo=Julia&logoColor=white" /><br>
 </td>
+<td>
+<img src="https://skillicons.dev/icons?i=c#&perline=3" />
+</td>
 </tr>
 </table>
 
-## IDE / GUI’s I am working / worked with
+## IDE / GUI’s I am working/worked with
 
 <img src="https://skillicons.dev/icons?i=pycharm,vscode&perline=5" />
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio IDE&logoColor=white" />
