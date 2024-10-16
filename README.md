@@ -40,7 +40,7 @@ $${\color{magenta}Heta} \space\space {\color{blue}Berkeley \space \color{blue}Ma
 <img src="https://img.shields.io/badge/Julia-18BFFF?style=for-the-badge&logo=Julia&logoColor=white" /><br>
 </td>
 <td>
-<img src="https://skillicons.dev/icons?i=c#&perline=3" />
+<img src="https://skillicons.dev/icons?i=cs#&perline=3" />
 </td>
 </tr>
 </table>
