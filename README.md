@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 </tr>
 <tr>
 <td>
-$${\color{magenta}Heta} \space\space {\color{blue}Berkeley \space \color{blue}Madonna}$$
+<img src="https://img.shields.io/badge/Julia-18BFFF?style=for-the-badge&logo=Julia&logoColor=white" /><br>
 <img src="https://skillicons.dev/icons?i=git,github,gitlab&perline=3" />
+$${\color{magenta}Heta} \space\space {\color{blue}Berkeley \space \color{blue}Madonna}$$
 </td>
 <td>
 <img src="https://skillicons.dev/icons?i=py,r,matlab&perline=3" />
-<img src="https://img.shields.io/badge/Julia-18BFFF?style=for-the-badge&logo=Julia&logoColor=white" /><br>
 </td>
 <td>
 <img src="https://skillicons.dev/icons?i=cs#&perline=3" />
